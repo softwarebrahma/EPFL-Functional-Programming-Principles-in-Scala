@@ -1,0 +1,111 @@
+[0m[[0minfo[0m] [0mscalastyle using config C:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\scalastyle-config.xml[0m
+[0m[[0mdebug[0m] [0mStarting scalastyle[0m
+[0m[[0mdebug[0m] [0mstart file C:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\common\package.scala[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\common\package.scala:1: Header does not match expected text[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\common\package.scala:36:4: If block needs braces[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\common\package.scala:24:6: Public method must have explicit type[0m
+[0m[[0mdebug[0m] [0mend file C:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\common\package.scala[0m
+[0m[[0mdebug[0m] [0mstart file C:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:190:4: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:191:4: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:192:4: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:193:4: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:194:4: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:195:4: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:196:4: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:197:4: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:198:4: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:199:4: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:1: Header does not match expected text[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:24:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:31:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:36:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:79:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:84:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:92:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:97:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:109:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:114:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:131:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:139:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:162:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:172:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:186:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:202:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:220:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:235:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:249:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:262:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:285:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:292:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:53: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:75: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:106: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:121: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:141: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:157: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:182: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:218: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:238: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:252: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:272: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:296: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:311: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:339: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:354: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:387: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:403: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:440: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:489: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:542: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:600: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:627: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:643: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:664: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:691: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:707: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:728: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:744: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:769: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:803: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:881: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:913: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:935: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:956: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:977: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:993: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:1014: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:1039: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:1068: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:1102: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:1124: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:1141: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:1163: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:1205: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:1227: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:1249: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:1266: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:1288: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:1314: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:1368: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:208:1486: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:74:11: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:75:11: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:88:8: If block needs braces[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:128:6: If block needs braces[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:135:8: If block needs braces[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:159:6: If block needs braces[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:192:8: If block needs braces[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:196:7: If block needs braces[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:239:10: If block needs braces[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:240:15: If block needs braces[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:244:10: If block needs braces[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala:37:6: Public method must have explicit type[0m
+[0m[[0mdebug[0m] [0mend file C:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\src\main\scala\patmat\Huffman.scala[0m
+[0m[[0minfo[0m] [0mProcessed 2 file(s)[0m
+[0m[[0minfo[0m] [0mFound 0 errors[0m
+[0m[[0minfo[0m] [0mFound 99 warnings[0m
+[0m[[0minfo[0m] [0mFound 0 infos[0m
+[0m[[0minfo[0m] [0mFinished in 360 ms[0m
+[0m[[32msuccess[0m] [0mcreated output: C:\Users\mlekshma\Documents\Personal\Coursera\Scala\patmat\target[0m

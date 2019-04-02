@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<checkstyle version="5.0">
+ <file name="C:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\common\package.scala">
+  <error line="1" source="org.scalastyle.file.HeaderMatchesChecker" severity="warning" message="Header does not match expected text"/>
+  <error column="4" line="36" source="org.scalastyle.scalariform.IfBraceChecker" severity="warning" message="If block needs braces"/>
+  <error column="6" line="24" source="org.scalastyle.scalariform.PublicMethodsHaveTypeChecker" severity="warning" message="Public method must have explicit type"/>
+ </file>
+ <file name="C:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala">
+  <error column="0" line="87" source="org.scalastyle.file.FileTabChecker" severity="warning" message="Line contains a tab"/>
+  <error column="0" line="88" source="org.scalastyle.file.FileTabChecker" severity="warning" message="Line contains a tab"/>
+  <error column="0" line="89" source="org.scalastyle.file.FileTabChecker" severity="warning" message="Line contains a tab"/>
+  <error column="0" line="90" source="org.scalastyle.file.FileTabChecker" severity="warning" message="Line contains a tab"/>
+  <error column="0" line="91" source="org.scalastyle.file.FileTabChecker" severity="warning" message="Line contains a tab"/>
+  <error column="0" line="92" source="org.scalastyle.file.FileTabChecker" severity="warning" message="Line contains a tab"/>
+  <error column="0" line="93" source="org.scalastyle.file.FileTabChecker" severity="warning" message="Line contains a tab"/>
+  <error column="0" line="94" source="org.scalastyle.file.FileTabChecker" severity="warning" message="Line contains a tab"/>
+  <error column="0" line="95" source="org.scalastyle.file.FileTabChecker" severity="warning" message="Line contains a tab"/>
+  <error column="0" line="96" source="org.scalastyle.file.FileTabChecker" severity="warning" message="Line contains a tab"/>
+  <error column="0" line="97" source="org.scalastyle.file.FileTabChecker" severity="warning" message="Line contains a tab"/>
+  <error column="0" line="98" source="org.scalastyle.file.FileTabChecker" severity="warning" message="Line contains a tab"/>
+  <error column="0" line="101" source="org.scalastyle.file.FileTabChecker" severity="warning" message="Line contains a tab"/>
+  <error column="0" line="102" source="org.scalastyle.file.FileTabChecker" severity="warning" message="Line contains a tab"/>
+  <error column="1" line="117" source="org.scalastyle.file.FileTabChecker" severity="warning" message="Line contains a tab"/>
+  <error column="0" line="118" source="org.scalastyle.file.FileTabChecker" severity="warning" message="Line contains a tab"/>
+  <error column="1" line="119" source="org.scalastyle.file.FileTabChecker" severity="warning" message="Line contains a tab"/>
+  <error column="0" line="169" source="org.scalastyle.file.FileTabChecker" severity="warning" message="Line contains a tab"/>
+  <error column="0" line="170" source="org.scalastyle.file.FileTabChecker" severity="warning" message="Line contains a tab"/>
+  <error column="0" line="171" source="org.scalastyle.file.FileTabChecker" severity="warning" message="Line contains a tab"/>
+  <error column="0" line="172" source="org.scalastyle.file.FileTabChecker" severity="warning" message="Line contains a tab"/>
+  <error column="0" line="173" source="org.scalastyle.file.FileTabChecker" severity="warning" message="Line contains a tab"/>
+  <error column="0" line="174" source="org.scalastyle.file.FileTabChecker" severity="warning" message="Line contains a tab"/>
+  <error column="0" line="175" source="org.scalastyle.file.FileTabChecker" severity="warning" message="Line contains a tab"/>
+  <error column="0" line="176" source="org.scalastyle.file.FileTabChecker" severity="warning" message="Line contains a tab"/>
+  <error column="0" line="177" source="org.scalastyle.file.FileTabChecker" severity="warning" message="Line contains a tab"/>
+  <error column="0" line="178" source="org.scalastyle.file.FileTabChecker" severity="warning" message="Line contains a tab"/>
+  <error column="0" line="179" source="org.scalastyle.file.FileTabChecker" severity="warning" message="Line contains a tab"/>
+  <error column="0" line="180" source="org.scalastyle.file.FileTabChecker" severity="warning" message="Line contains a tab"/>
+  <error column="0" line="181" source="org.scalastyle.file.FileTabChecker" severity="warning" message="Line contains a tab"/>
+  <error column="0" line="182" source="org.scalastyle.file.FileTabChecker" severity="warning" message="Line contains a tab"/>
+  <error column="0" line="183" source="org.scalastyle.file.FileTabChecker" severity="warning" message="Line contains a tab"/>
+  <error line="1" source="org.scalastyle.file.HeaderMatchesChecker" severity="warning" message="Header does not match expected text"/>
+  <error column="0" line="99" source="org.scalastyle.file.WhitespaceEndOfLineChecker" severity="warning" message="Whitespace at end of line"/>
+  <error column="0" line="115" source="org.scalastyle.file.WhitespaceEndOfLineChecker" severity="warning" message="Whitespace at end of line"/>
+  <error column="0" line="167" source="org.scalastyle.file.WhitespaceEndOfLineChecker" severity="warning" message="Whitespace at end of line"/>
+  <error column="0" line="184" source="org.scalastyle.file.WhitespaceEndOfLineChecker" severity="warning" message="Whitespace at end of line"/>
+  <error column="2" line="100" source="org.scalastyle.scalariform.NoWhitespaceBeforeLeftBracketChecker" severity="warning" message="There should be no space before a left bracket '['"/>
+  <error column="2" line="116" source="org.scalastyle.scalariform.NoWhitespaceBeforeLeftBracketChecker" severity="warning" message="There should be no space before a left bracket '['"/>
+  <error column="2" line="168" source="org.scalastyle.scalariform.NoWhitespaceBeforeLeftBracketChecker" severity="warning" message="There should be no space before a left bracket '['"/>
+  <error column="3" line="117" source="org.scalastyle.scalariform.IfBraceChecker" severity="warning" message="If block needs braces"/>
+  <error column="2" line="169" source="org.scalastyle.scalariform.IfBraceChecker" severity="warning" message="If block needs braces"/>
+  <error column="3" line="173" source="org.scalastyle.scalariform.IfBraceChecker" severity="warning" message="If block needs braces"/>
+ </file>
+ <file name="C:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\package.scala">
+  <error line="1" source="org.scalastyle.file.HeaderMatchesChecker" severity="warning" message="Header does not match expected text"/>
+  <error column="8" line="17" source="org.scalastyle.file.RegexChecker" severity="warning" message="Regular expression matched 'println'"/>
+  <error column="6" line="4" source="org.scalastyle.scalariform.PublicMethodsHaveTypeChecker" severity="warning" message="Public method must have explicit type"/>
+ </file>
+</checkstyle>

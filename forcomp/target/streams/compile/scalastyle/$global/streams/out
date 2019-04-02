@@ -1,0 +1,63 @@
+[0m[[0minfo[0m] [0mscalastyle using config C:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\scalastyle-config.xml[0m
+[0m[[0mdebug[0m] [0mStarting scalastyle[0m
+[0m[[0mdebug[0m] [0mstart file C:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\common\package.scala[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\common\package.scala:1: Header does not match expected text[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\common\package.scala:36:4: If block needs braces[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\common\package.scala:24:6: Public method must have explicit type[0m
+[0m[[0mdebug[0m] [0mend file C:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\common\package.scala[0m
+[0m[[0mdebug[0m] [0mstart file C:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:87:0: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:88:0: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:89:0: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:90:0: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:91:0: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:92:0: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:93:0: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:94:0: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:95:0: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:96:0: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:97:0: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:98:0: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:101:0: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:102:0: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:117:1: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:118:0: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:119:1: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:169:0: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:170:0: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:171:0: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:172:0: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:173:0: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:174:0: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:175:0: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:176:0: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:177:0: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:178:0: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:179:0: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:180:0: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:181:0: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:182:0: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:183:0: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:1: Header does not match expected text[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:99:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:115:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:167:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:184:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:100:2: There should be no space before a left bracket '['[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:116:2: There should be no space before a left bracket '['[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:168:2: There should be no space before a left bracket '['[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:117:3: If block needs braces[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:169:2: If block needs braces[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala:173:3: If block needs braces[0m
+[0m[[0mdebug[0m] [0mend file C:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\Anagrams.scala[0m
+[0m[[0mdebug[0m] [0mstart file C:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\package.scala[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\package.scala:1: Header does not match expected text[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\package.scala:17:8: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\package.scala:4:6: Public method must have explicit type[0m
+[0m[[0mdebug[0m] [0mend file C:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\src\main\scala\forcomp\package.scala[0m
+[0m[[0minfo[0m] [0mProcessed 3 file(s)[0m
+[0m[[0minfo[0m] [0mFound 0 errors[0m
+[0m[[0minfo[0m] [0mFound 49 warnings[0m
+[0m[[0minfo[0m] [0mFound 0 infos[0m
+[0m[[0minfo[0m] [0mFinished in 160 ms[0m
+[0m[[32msuccess[0m] [0mcreated output: C:\Users\mlekshma\Documents\Personal\Coursera\Scala\forcomp\target[0m

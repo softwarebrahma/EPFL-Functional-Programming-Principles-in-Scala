@@ -1,0 +1,62 @@
+Over the past six weeks you have explored
+the traits of functional programming as they present themselves
+in the Scala language. In particular, you've seen higher-order
+functions, and how they're composed. You've seen how to represent
+data with case classes, and how to decompose it with pattern matching. You've seen how to work in
+the absence of mutable state, in particular with immutable collections. And you have seen several
+evaluation strategies, namely strict evaluation called
+by value versus call by name, and you have seen how they can
+be mixed in flexible ways. I hope you will find that a useful tool
+kit for your everyday programming, and I also hope that it has shown you a
+different way of thinking about programs. If you find out more about
+functional programming in Scala, there's actually a wealth
+of material out there. There's the Scala cheat sheet, which is actually from a post of
+a student of a previous course. The cheat sheet shows you the essential
+elements of the course in a condensed form. Another approach to learning Scala
+is the Scala School by Twitter. It gives you a lot of courses on
+the basic of functional programming up to the concurrency libraries that are used
+in Twitter's massive systems that are all written in Scala. Another fun way to continue
+your Scala experience and your Scala learning is doing some of
+the Scala exercises by 47 degrees. Though that's a way to learn
+individual features of programming by means of solving simple exercises. So, for instance, I can come up and
+have a look at the maps exercises. So, here you see essentially,
+the first description and this explanation and then it asks you
+to essentially fill in the blanks here. To say, well,
+how many pairings does map have here? And it's at four. No, that's actually wrong. So, three is the right answer here. So, it's a fun way to test your knowledge
+about Scala and also, to extend it. If you're more into reading a book, well the reference book is Programming
+in Scala, which I co-wrote. It's currently out in second edition. The first edition is actually
+free download on the web. The second edition is available
+from the our team of publishers. And finally, there's the Scala website,
+which contains lot of documentation from, again, getting started and tutorials,
+to linked to the Scala doc, and general ITA overview,
+to links to the community, and a lot more. So, it was quite a tour what you
+did over the last six weeks, and I believe you learned a lot
+about function programming. But there are also quite a few topics
+that we couldn't cover yet, and that will be worthwhile to
+study in a future course. The first topic will be well how
+can we use the principles, and the elements we learned in this course
+in the design of larger programs? How can we apply, functional
+programming in a larger context. Related to that is the question, what are some useful design
+principles of functional programming? We know all about design patterns in
+object-oriented programming languages, so do they carry over
+to functional programs? Probably not, but then the question is, well what would be typical
+functional design principles? Another important and interesting
+question is about the relationship of functional programming and mutable state. So far, all our functions have been pure. There were no side effects and
+that meant we also had very powerful reasoning principles about
+functional programming that are all rooted in the idea of that
+substitution model that we have learned. Once we add mutable state,
+do things change? That's a very important question. And also, if we don't want to add
+state in a straightforward way, can we maybe simulate state in
+a purely functional setting? Another important development
+is from sequential programming, what we have seen in this course,
+to parallel and distributed systems. I've mentioned at the beginning
+of this course that functional programming is very
+suitable for parallel evaluation, but so far all our programs were sequential,
+no parallelism involved. So, once we go parallel it would be
+interesting to see what are the data structures? What are the algorithm and
+programming techniques to do that? And one step beyond parallel programming
+are distributed systems, in particular, distributed collections that,
+it turns out, are very, very useful for big data and
+data signs, data analytics. So, there's a fascinating set of
+topics still to be explored, and I hope I can see you back in
+future classes to do that.

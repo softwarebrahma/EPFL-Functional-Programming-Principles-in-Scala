@@ -1,0 +1,278 @@
+[0m[[0minfo[0m] [0mscalastyle using config C:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\scalastyle-config.xml[0m
+[0m[[0mdebug[0m] [0mStarting scalastyle[0m
+[0m[[0mdebug[0m] [0mstart file C:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\common\package.scala[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\common\package.scala:1: Header does not match expected text[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\common\package.scala:36:4: If block needs braces[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\common\package.scala:24:6: Public method must have explicit type[0m
+[0m[[0mdebug[0m] [0mend file C:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\common\package.scala[0m
+[0m[[0mdebug[0m] [0mstart file C:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:1: Header does not match expected text[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:7: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:12: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:14: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:22: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:23: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:24: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:64: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:70: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:83: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:90: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:96: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:99: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:102: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:108: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:109: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:111: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:112: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:118: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:122: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:123: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:124: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:126: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:131: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:132: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:133: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:135: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:136: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:139: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:141: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:144: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:146: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:148: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:150: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:155: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:156: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:157: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:158: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:159: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:163: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:165: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:166: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:167: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:168: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:170: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:172: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:175: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:176: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:177: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:178: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:179: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:180: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:181: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:184: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:185: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:187: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:189: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:191: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:192: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:193: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:195: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:197: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:198: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:200: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:202: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:203: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:211: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:213: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:218: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:222: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:223: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:224: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:230: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:231: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:237: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:240: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:241: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:242: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:244: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:246: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:247: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:248: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:251: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:256: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:257: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:258: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:259: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:260: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:262: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:263: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:264: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:268: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:271: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:273: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:276: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:282: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:283: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:285: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:286: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:288: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:289: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:291: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:293: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:299: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:300: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:302: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:305: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:308: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:321: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:322: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:333: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:337: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:339: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:365: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:391: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:392: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:420: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:428: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:432: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:434: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:435: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:439: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:447: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:449: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:450: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:451: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:455: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:456: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:458: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:462: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:466: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:471: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:473: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:475: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:480: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:482: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:487: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:490: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:492: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:493: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:494: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:495: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:497: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:498: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:499: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:503: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:507: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:510: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:517: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:525: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:528: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:532: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:534: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:536: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:537: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:539: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:540: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:550: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:551: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:554: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:555: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:556: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:558: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:566: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:567: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:569: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:571: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:572: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:573: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:574: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:576: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:578: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:579: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:581: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:582: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:583: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:585: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:587: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:589: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:591: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:592: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:593: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:595: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:596: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:597: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:599: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:600: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:603: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:604: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:605: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:606: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:607: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:608: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:609: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:610: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:611: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:612: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:613: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:614: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:635: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:651: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:652: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:653: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:654: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:655: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:656: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:658: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:660: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:661: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:676: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:690: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala:701: File line length exceeds 160 characters[0m
+[0m[[0mdebug[0m] [0mend file C:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetData.scala[0m
+[0m[[0mdebug[0m] [0mstart file C:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetReader.scala[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetReader.scala:1: Header does not match expected text[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetReader.scala:7:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetReader.scala:48:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetReader.scala:56:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetReader.scala:69:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetReader.scala:64:24: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetReader.scala:65:24: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetReader.scala:66:24: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetReader.scala:74:4: If block needs braces[0m
+[0m[[0mdebug[0m] [0mend file C:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetReader.scala[0m
+[0m[[0mdebug[0m] [0mstart file C:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:1: Header does not match expected text[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:45:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:58:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:64:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:71:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:82:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:89:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:95:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:106:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:114:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:145:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:161:67: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:165:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:167:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:169:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:170:57: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:172:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:174:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:175:58: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:177:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:179:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:180:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:236:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:246:33: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:108:6: If block needs braces[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:162:6: If block needs braces[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:186:4: If block needs braces[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:187:9: If block needs braces[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:191:4: If block needs braces[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:192:9: If block needs braces[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:197:4: If block needs braces[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:198:9: If block needs braces[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:63:8: Public method must have explicit type[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:168:17: Public method must have explicit type[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:220:6: Public method must have explicit type[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:221:6: Public method must have explicit type[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:222:6: Public method must have explicit type[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala:226:6: Public method must have explicit type[0m
+[0m[[0mdebug[0m] [0mend file C:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\src\main\scala\objsets\TweetSet.scala[0m
+[0m[[0minfo[0m] [0mProcessed 4 file(s)[0m
+[0m[[0minfo[0m] [0mFound 0 errors[0m
+[0m[[0minfo[0m] [0mFound 262 warnings[0m
+[0m[[0minfo[0m] [0mFound 0 infos[0m
+[0m[[0minfo[0m] [0mFinished in 303 ms[0m
+[0m[[32msuccess[0m] [0mcreated output: C:\Users\mlekshma\Documents\Personal\Coursera\Scala\objsets\objsets\target[0m

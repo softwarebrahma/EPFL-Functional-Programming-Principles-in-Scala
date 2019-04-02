@@ -1,0 +1,41 @@
+[0m[[0minfo[0m] [0mscalastyle using config C:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\scalastyle-config.xml[0m
+[0m[[0mdebug[0m] [0mStarting scalastyle[0m
+[0m[[0mdebug[0m] [0mstart file C:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\common\package.scala[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\common\package.scala:1: Header does not match expected text[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\common\package.scala:36:4: If block needs braces[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\common\package.scala:24:6: Public method must have explicit type[0m
+[0m[[0mdebug[0m] [0mend file C:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\common\package.scala[0m
+[0m[[0mdebug[0m] [0mstart file C:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\example\Lists.scala[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\example\Lists.scala:64:4: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\example\Lists.scala:65:4: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\example\Lists.scala:66:4: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\example\Lists.scala:67:4: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\example\Lists.scala:68:4: Line contains a tab[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\example\Lists.scala:1: Header does not match expected text[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\example\Lists.scala:35:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\example\Lists.scala:62:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\example\Lists.scala:28:8: Avoid using return[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\example\Lists.scala:30:8: Avoid using return[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\example\Lists.scala:32:8: Avoid using return[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\example\Lists.scala:51:7: Avoid using return[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\example\Lists.scala:55:8: Avoid using return[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\example\Lists.scala:59:8: Avoid using return[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\example\Lists.scala:65:7: Avoid using return[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\example\Lists.scala:67:7: Avoid using return[0m
+[0m[[0mdebug[0m] [0mend file C:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\example\Lists.scala[0m
+[0m[[0mdebug[0m] [0mstart file C:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\Main.scala[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\Main.scala:1: Header does not match expected text[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\Main.scala:3:23: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\Main.scala:6:23: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\Main.scala:6:25: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\Main.scala:6:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\Main.scala:7:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\Main.scala:8:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\Main.scala: File must end with newline character[0m
+[0m[[0mdebug[0m] [0mend file C:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\src\main\scala\Main.scala[0m
+[0m[[0minfo[0m] [0mProcessed 3 file(s)[0m
+[0m[[0minfo[0m] [0mFound 0 errors[0m
+[0m[[0minfo[0m] [0mFound 27 warnings[0m
+[0m[[0minfo[0m] [0mFound 0 infos[0m
+[0m[[0minfo[0m] [0mFinished in 68 ms[0m
+[0m[[32msuccess[0m] [0mcreated output: C:\Users\mlekshma\Documents\Personal\Coursera\Scala\example\example\target[0m

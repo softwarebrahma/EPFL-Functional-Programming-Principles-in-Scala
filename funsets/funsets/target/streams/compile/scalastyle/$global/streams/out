@@ -1,0 +1,101 @@
+[0m[[0minfo[0m] [0mscalastyle using config C:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\scalastyle-config.xml[0m
+[0m[[0mdebug[0m] [0mStarting scalastyle[0m
+[0m[[0mdebug[0m] [0mstart file C:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\common\package.scala[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\common\package.scala:1: Header does not match expected text[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\common\package.scala:36:4: If block needs braces[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\common\package.scala:24:6: Public method must have explicit type[0m
+[0m[[0mdebug[0m] [0mend file C:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\common\package.scala[0m
+[0m[[0mdebug[0m] [0mstart file C:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\FunSets.scala[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\FunSets.scala:1: Header does not match expected text[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\FunSets.scala:23:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\FunSets.scala:30:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\FunSets.scala:36:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\FunSets.scala:42:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\FunSets.scala:47:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\FunSets.scala:65:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\FunSets.scala:71:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\FunSets.scala:85:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\FunSets.scala:98:4: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\FunSets.scala:59:6: If block needs braces[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\FunSets.scala:60:11: If block needs braces[0m
+[0m[[0mdebug[0m] [0mend file C:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\FunSets.scala[0m
+[0m[[0mdebug[0m] [0mstart file C:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:1: Header does not match expected text[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:9:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:20:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:22:25: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:24:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:28:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:30:43: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:32:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:36:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:40:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:46:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:50:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:54:0: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:73:104: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:75:112: Whitespace at end of line[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:66: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:77: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:84: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:85: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:8:32: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:15:24: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:16:33: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:17:33: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:18:43: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:19:43: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:74:50: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:76:50: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:77:158: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:5:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:6:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:7:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:8:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:22:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:26:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:30:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:34:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:38:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:44:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:48:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:52:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:56:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:58:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:59:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:60:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:61:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:62:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:63:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:64:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:65:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:66:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:67:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:69:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:71:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:72:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:73:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:75:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:77:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:78:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:79:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:80:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:81:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:82:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:83:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:84:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:85:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:86:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:89:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:92:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:94:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:97:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:99:2: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala:102:2: Regular expression matched 'println'[0m
+[0m[[0mdebug[0m] [0mend file C:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\src\main\scala\funsets\Main.scala[0m
+[0m[[0minfo[0m] [0mProcessed 3 file(s)[0m
+[0m[[0minfo[0m] [0mFound 0 errors[0m
+[0m[[0minfo[0m] [0mFound 87 warnings[0m
+[0m[[0minfo[0m] [0mFound 0 infos[0m
+[0m[[0minfo[0m] [0mFinished in 292 ms[0m
+[0m[[32msuccess[0m] [0mcreated output: C:\Users\mlekshma\Documents\Personal\Coursera\Scala\funsets\funsets\target[0m
